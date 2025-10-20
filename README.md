@@ -64,11 +64,8 @@ git push origin your-branch-name
 We welcome various types of contributions:
 
 - **Add Your Profile**: Create a markdown file with your information in a `contributors` folder
-- **Code Examples**: Share useful code snippets, algorithms, or projects
-- **Documentation**: Improve existing documentation or add new guides
-- **Bug Fixes**: Fix any bugs you find
-- **Features**: Add new features (discuss in issues first)
-- **Translations**: Help translate content to different languages
+- **GIT**: Share useful Git commands in the `GIT` folder
+- **SHELL**: Share useful Shell commands in the `SHELL` folder
 
 ## 📝 Contribution Guidelines
 
