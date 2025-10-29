@@ -1,0 +1,19 @@
+N = int(input().strip())
+
+sum_fact = 0
+temp = N
+
+while temp > 0:
+    digit = temp % 10
+
+    fact = 1
+    for i in range(1, digit + 1):
+        fact *= i
+
+    sum_fact += fact
+    temp //= 10
+
+if sum_fact == N:
+    print(1)
+else:
+    print(0)
